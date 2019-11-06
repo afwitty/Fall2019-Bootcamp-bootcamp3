@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "lib": "^4.0.5",
     "mocha": "^6.2.0",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node": "^12.11.0",
     "node-geocoder": "^3.24.0",
